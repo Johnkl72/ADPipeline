@@ -2,7 +2,7 @@
 	"name": "JsonDS",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "datalakeLS1",
+			"referenceName": "datalakeLS2",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],

@@ -2,7 +2,7 @@
 	"name": "para_DS",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "datalakeLS1",
+			"referenceName": "datalakeLS2",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
