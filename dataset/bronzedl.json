@@ -2,7 +2,7 @@
 	"name": "bronzedl",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "datalakeLS",
+			"referenceName": "datalakeLS1",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
