@@ -2,7 +2,7 @@
 	"name": "datalakeDS",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "datalakeLS2",
+			"referenceName": "datalakeLS3",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
